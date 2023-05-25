@@ -1,0 +1,14 @@
+name: auctionvisualizer
+title:
+username:
+account: calin-buzetelu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4252670
+bundleId: 5142925
+url: https://calin-buzetelu.shinyapps.io/auctionvisualizer/
+when: 1634314638.69067
+lastSyncTime: 1634314638.6907
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: auction_logic.R
